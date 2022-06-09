@@ -1,8 +1,7 @@
-<!-- - 👋 Hi, I’m @nuyomi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 👋 Hi, I’m @nuyomi
+- 👀 I’m interested in Frontend technologies
+- 🌱 I’m currently working and developing on Angular
+- 📫 How to reach me: nuyomi@hotmail.com
 
 <!---
 nuyomi/nuyomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
